@@ -7,8 +7,30 @@
       "Zugnummer": "X",
       "Verspaetungsgrund": "X",
       "Fahrplan": [
-        {"Station": "Abstellgleis", "Abfahrtszeit": "16:00"},
-        {"Station": "Startbahnhof", "Abfahrtszeit": "16:12"}
+        {
+          "Station": "Abstellgleis",
+          "Abfahrtszeit": "16:00"
+        },
+        {
+          "Station": "Startbahnhof",
+          "Abfahrtszeit": "16:12"
+        }
+      ]
+    },
+    "22035": {
+      "Linie": "Sonderzug",
+      "Start": "Bonn Hbf",
+      "Ende": "Köln-Süd",
+      "Verspaetungsgrund": "0",
+      "Fahrplan": [
+        {
+          "Station": "Bonn Hbf",
+          "Abfahrtszeit": "13:00"
+        },
+        {
+          "Station": "Köln-Süd",
+          "Abfahrtszeit": "13:20"
+        }
       ]
     }
   }
