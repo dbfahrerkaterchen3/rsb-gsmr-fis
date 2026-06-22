@@ -16,6 +16,34 @@
           "Abfahrtszeit": "16:12"
         }
       ]
+    },
+    "59025": {
+      "Linie": "SDZ",
+      "Start": "Remagen",
+      "Ende": "Sonderzug",
+      "Verspaetungsgrund": "NB",
+      "Fahrplan": [
+        {
+          "Station": "Remagen",
+          "Abfahrtszeit": "16:30"
+        },
+        {
+          "Station": "Bonn Hbf",
+          "Abfahrtszeit": "16:45"
+        },
+        {
+          "Station": "Brühl",
+          "Abfahrtszeit": "16:49"
+        },
+        {
+          "Station": "Köln-Süd",
+          "Abfahrtszeit": "16:55"
+        },
+        {
+          "Station": "Köln Hbf",
+          "Abfahrtszeit": "17:03"
+        }
+      ]
     }
   }
 }
