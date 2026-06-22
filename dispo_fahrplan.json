@@ -1,22 +1,5 @@
 {
   "Zusatzlaeufe": {
-    "99036": {
-      "Linie": "RSB",
-      "Start": "X",
-      "Ende": "X",
-      "Zugnummer": "X",
-      "Verspaetungsgrund": "X",
-      "Fahrplan": [
-        {
-          "Station": "Abstellgleis",
-          "Abfahrtszeit": "16:00"
-        },
-        {
-          "Station": "Startbahnhof",
-          "Abfahrtszeit": "16:12"
-        }
-      ]
-    },
     "59025": {
       "Linie": "SDZ",
       "Start": "Remagen",
