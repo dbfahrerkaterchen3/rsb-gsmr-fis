@@ -1,30 +1,26 @@
 {
   "Zugfahrteb": {
-    "59025": {
-      "Linie": "SDZ",
-      "Start": "Remagen",
-      "Ende": "Sonderzug",
+    "2101": {
+      "Linie": "IC 21",
+      "Start": "Boppard Hbf",
+      "Ende": "Bonn Hbf",
       "Verspaetungsgrund": "NB",
       "Fahrplan": [
         {
+          "Station": "Boppard Hbf",
+          "Abfahrtszeit": "23:35"
+        },
+        {
+          "Station": "Koblenz Hbf",
+          "Abfahrtszeit": "00:00"
+        },
+        {
           "Station": "Remagen",
-          "Abfahrtszeit": "16:30"
+          "Abfahrtszeit": "00:05"
         },
         {
           "Station": "Bonn Hbf",
-          "Abfahrtszeit": "16:45"
-        },
-        {
-          "Station": "Brühl",
-          "Abfahrtszeit": "16:49"
-        },
-        {
-          "Station": "Köln-Süd",
-          "Abfahrtszeit": "16:55"
-        },
-        {
-          "Station": "Köln Hbf",
-          "Abfahrtszeit": "17:03"
+          "Abfahrtszeit": "00:15"
         }
       ]
     },
