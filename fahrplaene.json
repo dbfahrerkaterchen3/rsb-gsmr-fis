@@ -1,0 +1,42 @@
+{
+  "2101": {
+    "linie": "IC 21 (NightInterCity)",
+    "zugart": "IC",
+    "vmax": 160,
+    "fahrplan": [
+      { "bs": "KBOP", "name": "Boppard Hbf", "an": "--:--", "ab": "21:03" },
+      { "bs": "KKO", "name": "Koblenz Hbf", "an": "21:06", "ab": "21:07" },
+      { "bs": "KB", "name": "Bonn Hbf", "an": "21:15", "ab": "--:--" }
+    ]
+  },
+  "2102": {
+    "linie": "IC 21 (NightInterCity)",
+    "zugart": "IC",
+    "vmax": 160,
+    "fahrplan": [
+      { "bs": "KB", "name": "Bonn Hbf", "an": "--:--", "ab": "21:33" },
+      { "bs": "KKO", "name": "Koblenz Hbf", "an": "21:41", "ab": "21:42" },
+      { "bs": "KBOP", "name": "Boppard Hbf", "an": "21:45", "ab": "--:--" }
+    ]
+  },
+  "2103": {
+    "linie": "IC 21 (NightInterCity)",
+    "zugart": "IC",
+    "vmax": 160,
+    "fahrplan": [
+      { "bs": "KBOP", "name": "Boppard Hbf", "an": "--:--", "ab": "22:03" },
+      { "bs": "KKO", "name": "Koblenz Hbf", "an": "22:06", "ab": "22:07" },
+      { "bs": "KB", "name": "Bonn Hbf", "an": "21:15", "ab": "--:--" }
+    ]
+  },
+  "2102": {
+    "linie": "IC 21 (NightInterCity)",
+    "zugart": "IC",
+    "vmax": 160,
+    "fahrplan": [
+      { "bs": "KB", "name": "Bonn Hbf", "an": "--:--", "ab": "21:33" },
+      { "bs": "KKO", "name": "Koblenz Hbf", "an": "21:41", "ab": "21:42" },
+      { "bs": "KBOP", "name": "Boppard Hbf", "an": "21:45", "ab": "--:--" }
+    ]
+  },
+}
